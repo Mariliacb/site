@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    background-color:white;
+}
+
+#container {
+    min-height: 100%;
+    margin: 0px auto;
+    background-color: white;
+}
+
+#header {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+    margin-top: 0px;
+    background-color: #f8efd4;
+}
+
+#content {
+    height: 800px;
+    padding: 110px 5px 60px 5px;
+    }
+
+#footer {
+    position: fixed;
+    bottom: 0px;
+    height: 20px;
+    width: 100%;
+    background-color:#f8efd4;
+}
+
+h2{
+    color: #d7385e;
+    background-image: url("../imagens/bg.png");
+    background-attachment: fixed;
+}
